@@ -1,0 +1,5 @@
+print("posa el 1r numero")
+a = input()
+print("posa el 2n numero")
+b = input()
+print (a+b)
