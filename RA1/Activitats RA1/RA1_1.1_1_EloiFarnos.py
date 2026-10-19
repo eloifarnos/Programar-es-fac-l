@@ -1,0 +1,2 @@
+nom="Eloi"
+print (nom)

@@ -1,7 +1,0 @@
-print("Posa el 1r numero")
-a = float(input())
-print("Posa el 2n numero")
-b = float(input())
-print(a-b)
-print(a*b)
-print(a/b)

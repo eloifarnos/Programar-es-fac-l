@@ -1,2 +1,0 @@
-nom="Eloi"
-print (nom)
